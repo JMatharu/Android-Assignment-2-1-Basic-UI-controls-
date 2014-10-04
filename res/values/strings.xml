@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pizza Order</string>
+    <string name="pizza_shop">Welcome to Pizza Shop!</string>
+    <string name="order_screen">Customer Information</string>
+    <string name="action_settings">Settings</string>
+    <string name="fill">Complete the details below to finalize order</string>
+    <string name="button">Press and Hold!</string>
+    <string name="buttonBack">Back</string>
+    <string name="buttonNext">Next</string>
+    <string name="pizzaType">Choose one of the Pizza type</string>
+    <string name="pizzaSize">Choose one of the Pizza Size</string>
+    <string name="pizzaToppings">Choose one of the Pizza Toppings</string>
+    <string name="info">Press and hold button for 2 sec to see the list of Pizza shops.</string>
+    <string name="title_activity_pizza_shop">PizzaShop</string>
+    <string name="rPT1">BP Originals</string>
+    <string name="rPT2">The Classics</string>
+    <string name="rPT3">Veggie</string>
+    <string name="rPT4">International</string>
+    <string name="rPT5">GlutenWise™‡</string>
+    <string name="rPT6">Calzones</string>
+    <string name="rPS1">Small - 12″</string>
+    <string name="rPS2">Medium - 14″</string>
+    <string name="rPS3">Large - 16″</string>
+    <string name="rPS4">Extra Large - 18″</string>
+    <string name="rPS5">Party Size - 15″ x 21″</string>
+    <string name="cT1">Mushrooms</string>
+    <string name="cT2">Onions</string>
+    <string name="cT3">Olives</string>
+    <string name="cT4">Green Pepper</string>
+    <string name="cT5">Anchovies</string>
+    <string name="cT6">Salmon</string>
+    <string name="cT7">Bacon</string>
+    <string name="cT8">BBQ Chicken</string>
+    <string name="cT9">Ham</string>
+    <string name="cT10">Pepperoni</string>
+    <string name="cT11">Tuna</string>
+    <string name="cT12">Duck</string>
+    <string name="title_activity_order_screen">OrderScreen</string>
+    <string name="etName">Name</string>
+    <string name="etAddress">Address</string>
+    <string name="etCity">City</string>
+    <string name="etPhone">Phone</string>
+    <string name="etCredit">Credit</string>
+    <string name="etEmail">Email</string>
+    <string name="bConfirm">Order</string>
+    <string name="title_activity_checkout">Checkout</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

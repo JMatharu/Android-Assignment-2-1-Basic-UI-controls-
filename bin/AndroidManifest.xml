@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.assign2.jagdeepassign21"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.assign2.jagdeep21.JagdeepActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.assign2.jagdeep21.PizzaShop"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.PIZZASHOP" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.assign2.jagdeep21.OrderScreen"
+            android:label="@string/title_activity_order_screen" >
+        </activity>
+        <activity
+            android:name="com.assign2.jagdeep21.Checkout"
+            android:label="@string/title_activity_checkout" >
+        </activity>
+    </application>
+
+</manifest>
